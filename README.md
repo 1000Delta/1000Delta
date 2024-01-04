@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🧐
 
 [![1000Delta's GitHub stats](https://github-readme-stats-1000delta.vercel.app/api?username=1000Delta&theme=radical)](https://github.com/1000Delta)
