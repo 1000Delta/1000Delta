@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🧐
 
 <!--
 **1000Delta/1000Delta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🧐
 
 [![1000Delta's GitHub stats](https://github-readme-stats-1000delta.vercel.app/api?username=1000Delta&theme=radical)](https://github.com/1000Delta)
