@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![1000Delta's GitHub stats](https://github-stats-extended.vercel.app/api?username=1000Delta&theme=radical)]([https](https://github.com/1000Delta))
+
+[![1000Delta's GitHub stats](https://github-stats-extended.vercel.app/api/top-langs/?username=1000Delta&theme=radical)]([https](https://github.com/1000Delta))
