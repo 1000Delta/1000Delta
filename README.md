@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 -->
 
-![1000Delta's GitHub stats](https://github-readme-stats-1000deltas-projects.vercel.app/api?username=1000Delta&theme=radical)
+[![1000Delta's GitHub stats](https://github-stats-extended.vercel.app/api?username=1000Delta&theme=radical)]([https](https://github.com/1000Delta))
